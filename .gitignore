@@ -56,3 +56,10 @@ claude-flow.bat
 claude-flow.ps1
 hive-mind-prompt-*.txt
 .claude-flow/
+
+# Additional test data and cache directories
+.serena/
+.embed/
+.tantivy_index/
+test_accuracy_db/
+.test_bm25_db/
